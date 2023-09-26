@@ -1,6 +1,0 @@
-"./Core/Src/RCC_Program.o"
-"./Core/Src/main.o"
-"./Core/Src/syscalls.o"
-"./Core/Src/sysmem.o"
-"./Core/Src/system_stm32f1xx.o"
-"./Core/Startup/startup_stm32f103c8tx.o"
