@@ -1,0 +1,4 @@
+../Core/Src/GPIO_Program.c:22:6:GPIO_setPinDirection	3
+../Core/Src/GPIO_Program.c:43:6:GPIO_setPinValue	2
+../Core/Src/GPIO_Program.c:64:9:GPIO_readPinValue	2
+../Core/Src/GPIO_Program.c:80:6:GPIO_setPortDirection	3
