@@ -76,7 +76,7 @@ int main() {
 ```````
 ## Software Interrupt Trigger
 You can trigger EXTI interrupt lines using software with the EXTI_softWareTrigger function. Example:
-`````
+`````C
 #include "EXTI_Interface.h"
 
 int main() {
@@ -91,7 +91,7 @@ int main() {
 ## Setting Callback Functions
 To handle EXTI interrupt events, set callback functions using the set_CallBackFunction function. Example:
 
-`````
+`````C
 #include "EXTI_Interface.h"
 
 // Callback function for EXTI Line 0
