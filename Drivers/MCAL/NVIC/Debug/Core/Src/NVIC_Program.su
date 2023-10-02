@@ -1,0 +1,8 @@
+../Core/Src/NVIC_Program.c:20:6:NVIC_enableIRQn	16	static
+../Core/Src/NVIC_Program.c:39:6:NVIC_disableIRQn	16	static,ignoring_inline_asm
+../Core/Src/NVIC_Program.c:72:10:NVIC_getEnableIRQn	24	static
+../Core/Src/NVIC_Program.c:98:6:NVIC_setPendingIRQn	16	static
+../Core/Src/NVIC_Program.c:118:6:NVIC_clearPendingIRQn	16	static
+../Core/Src/NVIC_Program.c:138:10:NVIC_getPendingIRQn	24	static
+../Core/Src/NVIC_Program.c:165:10:NVIC_getActiveIRQn	24	static
+../Core/Src/NVIC_Program.c:194:6:NVIC_setPriority	24	static
