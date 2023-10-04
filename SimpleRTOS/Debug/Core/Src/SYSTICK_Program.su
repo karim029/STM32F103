@@ -1,0 +1,10 @@
+../Core/Src/SYSTICK_Program.c:20:6:SYSTICK_init	4	static
+../Core/Src/SYSTICK_Program.c:43:13:SYSTICK_start	4	static
+../Core/Src/SYSTICK_Program.c:48:13:SYSTICK_stop	4	static
+../Core/Src/SYSTICK_Program.c:54:6:SYSTICK_reset	4	static
+../Core/Src/SYSTICK_Program.c:69:10:SYSTICK_getCurrentVal	4	static
+../Core/Src/SYSTICK_Program.c:75:6:SYSTICK_busyWait_MicroS	24	static
+../Core/Src/SYSTICK_Program.c:92:6:SYSTICK_busyWait_MilliS	24	static
+../Core/Src/SYSTICK_Program.c:108:6:SYSTICK_singleInterval	24	static
+../Core/Src/SYSTICK_Program.c:132:6:SYSTICK_periodicInterval	24	static
+../Core/Src/SYSTICK_Program.c:156:6:SysTick_Handler	8	static
