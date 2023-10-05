@@ -1,0 +1,16 @@
+../Core/Src/DMA_Program.c:19:6:DMA_SetChannelConfiguration	16	static
+../Core/Src/DMA_Program.c:97:6:DMA_clearFlag	16	static
+../Core/Src/DMA_Program.c:104:6:DMA_enable	16	static
+../Core/Src/DMA_Program.c:115:6:DMA_disable	16	static
+../Core/Src/DMA_Program.c:123:6:DMA_interruptConfig	16	static
+../Core/Src/DMA_Program.c:136:6:DMA_addressSetup	24	static
+../Core/Src/DMA_Program.c:146:9:DMA_readFlag	16	static
+../Core/Src/DMA_Program.c:154:13:DMA_ISRclearFlags	16	static
+../Core/Src/DMA_Program.c:162:6:DMA_setCallBack	16	static
+../Core/Src/DMA_Program.c:172:6:DMA1_Channel1_IRQHandler	8	static
+../Core/Src/DMA_Program.c:183:6:DMA1_Channel2_IRQHandler	8	static
+../Core/Src/DMA_Program.c:194:6:DMA1_Channel3_IRQHandler	8	static
+../Core/Src/DMA_Program.c:205:6:DMA1_Channel4_IRQHandler	8	static
+../Core/Src/DMA_Program.c:216:6:DMA1_Channel5_IRQHandler	8	static
+../Core/Src/DMA_Program.c:227:6:DMA1_Channel6_IRQHandler	8	static
+../Core/Src/DMA_Program.c:238:6:DMA1_Channel7_IRQHandler	8	static
