@@ -1,0 +1,8 @@
+../Core/Inc/UART_Private.h:36:14:USART_getBaseAddress	5
+../Core/Src/UART_Program.c:17:13:UART_parityMode	4
+../Core/Src/UART_Program.c:33:13:UART_wordLength	3
+../Core/Src/UART_Program.c:39:13:UART_hwFlowControl	3
+../Core/Src/UART_Program.c:66:13:UART_baudRate	3
+../Core/Src/UART_Program.c:93:6:UART_init	1
+../Core/Src/UART_Program.c:122:6:UART_transmit	4
+../Core/Src/UART_Program.c:138:6:UART_receive	3
