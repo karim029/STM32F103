@@ -61,6 +61,12 @@ void GPIO_setPinValue(GPIOx_t* port,uint8_t copy_uint8_pin, uint8_t copy_uint8_v
 
 }
 
+void GPIO_togglePin(GPIOx_t *port, uint8_t copy_uint8_pin){
+
+	port->ODR ^= (uint32_t)copy_uint8_pin;
+
+}
+
 uint8_t GPIO_readPinValue(GPIOx_t* port,uint8_t copy_uint8_pin){
 
 	// temp pointer to GPIO struct port
@@ -99,7 +105,7 @@ uint16_t GPIO_getPortValue(GPIOx_t* port,uint8_t position){
 
 	if(position == LOW)
 		portVal &= HIGH_PORTL;
-	else if(position = HIGH)
+	else if(position == HIGH)
 		portVal &= HIGH_PORTH;
 
 	return portVal;
