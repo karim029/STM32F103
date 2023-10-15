@@ -120,7 +120,7 @@ APB1_HCLK_not_divided,
 	APB1_HCLK_divided_16
  */
 
-#define APB1_PRESCALER		APB1_HCLK_not_divided,
+#define APB1_PRESCALER		APB1_HCLK_not_divided
 #endif
 
 #define ENABLE_APB2						0
@@ -136,7 +136,7 @@ APB2_HCLK_not_divided,
 	APB2_HCLK_divided_8,
 	APB2_HCLK_divided_16
  */
-#define APB2_PRESCALER			APB2_HCLK_not_divided,
+#define APB2_PRESCALER			APB2_HCLK_not_divided
 #endif
 
 
